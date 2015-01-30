@@ -20,4 +20,3 @@ Public RoundDigit As Integer
 Public Unit As Double
 Public AdjustVarLmt As Integer
 Public Base As Boolean
-Public Bases As Boolean
